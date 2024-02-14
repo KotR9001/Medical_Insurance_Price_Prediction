@@ -1,8 +1,11 @@
 # Medical_Insurance_Price_Prediction
 Created this project to predict medical insurance prices.<br />
 <br />
+<br />
+<b>Data Extraction</b><br />
 Read in the dataset.<br />
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/7e8a975c-1d5b-4a3e-bf8c-3046cad9b3b2)<br />
+<br />
 <br />
 <b>Data Cleaning</b><br />
 <br />
@@ -13,7 +16,7 @@ Encoded the data to allow categorical features to be used for regression models.
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/884abf08-7564-4669-a952-e66bab02a26b)<br />
 <br />
 <br />
-<b>Split the data into train & test variables.</ b><br />
+<b>Split the data into train & test variables.</b><br />
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/de19b3bb-b6da-49fb-9836-94a989bed214)<br />
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/8c958813-23dd-4f2f-ac2e-6a5ded9d8979)<br />
 <br />
