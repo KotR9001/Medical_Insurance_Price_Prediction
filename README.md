@@ -4,7 +4,7 @@ Created this project to predict medical insurance prices.<br />
 Read in the dataset.<br />
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/7e8a975c-1d5b-4a3e-bf8c-3046cad9b3b2)<br />
 <br />
-<b>Data Cleaning</ b><br />
+<b>Data Cleaning</b><br />
 <br />
 Checked for Null values to enable machine learning and see if any techniques would need to be used to fill in missing values.<br />
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/2f5a3503-cd20-43b9-bce9-a9a0dada08a0)<br />
