@@ -16,7 +16,9 @@ Encoded the data to allow categorical features to be used for regression models.
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/884abf08-7564-4669-a952-e66bab02a26b)<br />
 <br />
 <br />
-<b>Split the data into train & test variables.</b><br />
+<b>Data Splitting</b><br />
+<br />
+Split the data into train & test variables.<br />
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/de19b3bb-b6da-49fb-9836-94a989bed214)<br />
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/8c958813-23dd-4f2f-ac2e-6a5ded9d8979)<br />
 <br />
