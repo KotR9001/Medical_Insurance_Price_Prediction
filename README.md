@@ -18,7 +18,7 @@ Encoded the data to allow categorical features to be used for regression models.
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/8c958813-23dd-4f2f-ac2e-6a5ded9d8979)<br />
 <br />
 <br />
-<b>Model Handling</ b><br />
+<b>Model Handling</b><br />
 <br />
 Imported, created, fitted, & tested several regression models with hyperparameter tuning, but used KNeighborsRegressor model with hyperparameter tuning to make & test predictions.<br />
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/ff85f895-2a32-4914-9133-16387af1d5da)<br />
@@ -42,7 +42,7 @@ Created a DataFrame to store actual vs. predicted insurance prices.<br />
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/b5f252b9-3f14-4e1e-b973-1ef4952890f1)<br />
 <br />
 <br />
-<b>ANOVA Testing</ b><br />
+<b>ANOVA Testing</b><br />
 <br />
 Performed F-Test/ ANOVA on features, and only showed ones deemed statistically significant (p <= 0.05).<br />
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/728ebbd6-14f9-45cd-b43b-a4e3cf41411c)<br />
@@ -50,7 +50,7 @@ Also showed correlation coefficients for other models (couldn't do this for KNei
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/86073c9d-261d-43b7-a183-b9bcbdd578c1)<br />
 <br />
 <br />
-<b>Actual vs. Predicted Prices Graph</ b><br />
+<b>Actual vs. Predicted Prices Graph</b><br />
 Showed graph of actual vs. predicted insurance prices.<br />
 ![image](https://github.com/KotR9001/Medical_Insurance_Price_Prediction/assets/57807780/05fb1e32-a2f3-406b-8d7b-209491b161cd)
 <br />
